@@ -1,5 +1,5 @@
 
-========ATMons Server - KubeJS Script Installer========
+====ATMons Server - KubeJS Script Installer====
 
 
 INSTRUCTIONS:
